@@ -7,3 +7,4 @@ Granulated Sugar
 Vanilla extract (optional)
 Cocoa powder
 Dark rum / brandy (optional)
+Salt (optional)
