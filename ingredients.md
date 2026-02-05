@@ -10,4 +10,5 @@ Cocoa powder
 Dark rum / brandy (optional)
 Salt (optional)
 Enjoy my recipe!
-Added last line LOCAL for practice git merge --abort.
+Practiced git merge --abort to see that both local and remote repo were restored to previous stage before pulling. 
+This line remarks that the conflictb has been resolved.
