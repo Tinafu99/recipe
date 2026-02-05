@@ -10,3 +10,4 @@ Cocoa powder
 Dark rum / brandy (optional)
 Salt (optional)
 Enjoy my recipe!
+Added last line REMOTE for practice git merge --abort.
