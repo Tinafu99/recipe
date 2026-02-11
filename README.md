@@ -10,3 +10,5 @@ Refer to https://tastesbetterfromscratch.com/easy-tiramisu/ for the source of th
 1. *Coffee Preparation: Choose strong, freshly brewed espresso or coffee from a moka pot. Avoid instant coffee or weak brews.*
 2. *Ladyfingers Dipping: Dip the ladyfingers in coffee for only a few seconds to avoid soggy layers.*
 3. *Resting Time: Allow the tiramisu to rest in the fridge for at least 2 hours to let the flavors meld and the texture set.*
+
+![Ingredients for Tiramisu](recipe.jpg)
